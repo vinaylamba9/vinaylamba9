@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there!👋, I am Vinay K</h1>
 <h2 align="center">Software Engineer. Learner. Problem Solver.</h2>
-
+<img src="https://camo.githubusercontent.com/101c98f67298425e9875ecfac1c25efccaf3c966db04609cc4f4e92d6bd12c32/68747470733a2f2f632e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966" style="float: right;"/>
 - 🌍  I'm based in Buffalo, **New York**
 
 - 🖥️  See my portfolio at [WebApp](http://myapp.com)
