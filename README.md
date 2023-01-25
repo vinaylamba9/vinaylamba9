@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭  I’m looking to collaborate on **Open Source**
 
-- 📫  How to reach me **[vkumar34@buffalo.edu]**(mailto:vkumar34@buffalo.edu)
+- 📫  How to reach me [vkumar34@buffalo.edu](mailto:vkumar34@buffalo.edu)
 
 - 💬  Ask me about **MERN, TypeScript** 💖
 
