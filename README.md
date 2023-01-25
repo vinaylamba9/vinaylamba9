@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there!👋, I am Vinay K</h1>
 <h2 align="center">Software Engineer. Learner. Problem Solver.</h2>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-- 🌍  I'm based in Buffalo, **New York**
+
+- 🌍  I’m based in Buffalo, **New York**
 
 - 🖥️  See my portfolio at [WebApp](http://myapp.com)
 
