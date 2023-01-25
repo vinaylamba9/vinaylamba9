@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 
 - 💬  Ask me about **MERN, TypeScript** 💖
 
+<br></br>
+
+
 ## 📢 Connect with me
 ### 👉 Front-end
 <p>
