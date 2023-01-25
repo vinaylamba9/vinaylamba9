@@ -13,8 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">Hello everyone 🧑🏻‍🚀, I am Shekhar S</h1>
+<h2 align="center">Fluttering on Node and Reacting Angularly</h2>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vinay Kumar
+- ☄️ I’m currently working on **Chatting application**.
+
+- 🚀 I’m currently learning **Kafka,NestJS**
+
+- 🔭 Ask me about **MERN,Flutter**
+
+- 📫 How to reach me **shekharshashank97@gmail.com**
+
+<br><br/>
+## 📢 Connect with me
 ===================================================================================================================================
 
 Software Engineer. Learner. Problem Solver.
