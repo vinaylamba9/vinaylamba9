@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 - 🌍  I’m based in Buffalo, **New York**
 
-- 🖥️  See my portfolio at [WebApp](https://google.com)
-
+<!-- - 🖥️  See my portfolio at [WebApp](https://google.com) -->
+<!--  -->
 - 🔭  I’m looking to collaborate on **Open Source**
 
 - 📫  How to reach me [vkumar34@buffalo.edu](mailto:vkumar34@buffalo.edu)
