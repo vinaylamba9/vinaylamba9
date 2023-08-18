@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there!👋, I am Vinay K</h1>
+<h1 align="center">Hi there!👋, I'm Vinay K</h1>
 <h2 align="center">Software Engineer. Learner. Problem Solver.</h2>
 <br></br>
 <img align="right" alt="Coding" width="350" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
