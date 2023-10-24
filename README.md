@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align = "center">
+<img src="https://komarev.com/ghpvc/?username=vinaylamba9&style=flat-square&color=blue" alt=""/>
+</div>
 <h1 align="center">Hi there!👋, I'm Vinay K</h1>
 <h2 align="center">Software Engineer. Learner. Problem Solver.</h2>
 <br></br>
