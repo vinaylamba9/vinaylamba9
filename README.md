@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align = "center">
-<img src="https://komarev.com/ghpvc/?username=vinaylamba9&style=flat-square&color=blue" alt=""/>
-</div>
 <h1 align="center">Hi there!👋, I'm Vinay K</h1>
 <h2 align="center">Software Engineer. Learner. Problem Solver.</h2>
 <br></br>
@@ -109,7 +106,9 @@ Here are some ideas to get you started:
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/vinaylamba9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vinaylamba9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
+<div align = "center">
+<img src="https://komarev.com/ghpvc/?username=vinaylamba9&style=flat-square&color=blue" alt=""/>
+</div>
 ### Badges
 <b>My GitHub Stats</b>
 
